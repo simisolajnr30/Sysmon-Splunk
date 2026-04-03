@@ -10,11 +10,6 @@ This information is very useful for an analyst because it allows us to see all p
 Task:
 What is the malicious process that infected the victim's system?
 
-
-# Overview
-
-This project focuses on identifying a malicious process by analyzing Sysmon Event ID 1 (Process Creation) logs in Splunk. The investigation highlights how behavioral analysis combined with threat intelligence can reveal malware activity.
-
 # Overview
 
 This project focuses on identifying a malicious process by analyzing Sysmon Event ID 1 (Process Creation) logs in Splunk. The investigation highlights how behavioral analysis combined with threat intelligence can reveal malware activity.
