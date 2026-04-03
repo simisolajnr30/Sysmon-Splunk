@@ -44,7 +44,7 @@ Step 3: Review Event Details
 - I looked at the entire event and grabbed a file hash.
 
 ```splunk
-index=splunkex1 EventCode=1 Image="C:\\Users\\CyberJunkie\\Downloads\\Preventivo24.02.14.exe.exe"  Hashes=SHA256=0CB44C4F8273750FA40497FCA81E850F73927E70B13C8F80CDCFEE9D1478E6F3
+index=splunkex1 EventCode=1 Image="C:\\Users\\CyberJunkie\\Downloads\\Preventivo24.02.14.exe.exe" Hashes=SHA256=0CB44C4F8273750FA40497FCA81E850F73927E70B13C8F80CDCFEE9D1478E6F3
 ```
 
  Step 4: Threat Validation
