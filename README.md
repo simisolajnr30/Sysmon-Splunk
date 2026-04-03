@@ -1,6 +1,6 @@
 # Detecting Malicious Process Using Sysmon & Splunk
 
- # Project Scenario
+ Project Scenario
 
 Question:
 Whenever a process is created in memory, an event with Event ID 1 is recorded with details such as command line, hashes, process path, and parent process path.
