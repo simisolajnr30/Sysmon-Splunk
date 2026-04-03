@@ -52,8 +52,8 @@ index=splunkex1 EventCode=1 Image="C:\\Users\\CyberJunkie\\Downloads\\Preventivo
 - I copied one of the file hashes into VirusTotal to determine if it is malicious and I saw that it is a malicious file in VirusTotal.
 
  # Outcome
- 
-So, just by searching for EventCode ID 1, we were able to discover a malicious process.
+ So, just by searching for EventCode ID 1, we were able to discover a malicious process.
+
 
 
 
