@@ -15,9 +15,9 @@ What is the malicious process that infected the victim's system?
 This project focuses on identifying a malicious process by analyzing Sysmon Event ID 1 (Process Creation) logs in Splunk. The investigation highlights how behavioral analysis combined with threat intelligence can reveal malware activity.
 
 # Tools Used
-- Splunk
-- Sysmon
-- VirusTotal
+- Splunk- for searching and analyzing Sysmon logs
+- Sysmon- Windows system monitoring tool
+- VirusTotal- for verifying file hashes
 
 # What l Did
 
