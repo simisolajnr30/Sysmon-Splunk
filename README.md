@@ -66,11 +66,12 @@ index=splunkex1 EventCode=1 Image="C:\\Users\\CyberJunkie\\Downloads\\Preventivo
 - I understand Sysmon EventCodes and their purpose in monitoring system activity.
     -For example, EventCode 1 tracks process creation.
 - I can identify important fields in Sysmon logs:
-   -Image – the executable being run
   
-   -CommandLine – parameters used to launch the process
+   - Image – the executable being run
   
-    -Parent – which process spawned this one
+   - CommandLine – parameters used to launch the process
+  
+    - Parent – which process spawned this one
   
 - I know how to extract file hashes from Sysmon logs and use VirusTotal to determine if files are malicious.
 - I can spot suspicious patterns such as:
