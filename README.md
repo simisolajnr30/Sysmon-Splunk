@@ -19,7 +19,7 @@ This project focuses on identifying a malicious process by analyzing Sysmon Even
 - Sysmon
 - VirusTotal
 
-# Investigation Notes
+# What l Did
 
 ---
 
