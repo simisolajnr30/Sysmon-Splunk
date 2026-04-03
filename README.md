@@ -54,6 +54,10 @@ index=splunkex1 EventCode=1 Image="C:\\Users\\CyberJunkie\\Downloads\\Preventivo
  # Outcome
  So, just by searching for EventCode ID 1, we were able to discover a malicious process.
 
+ ## **Screenshots** 
+
+ ![EventCode](eventcode=1.png)
+
 
 
 
